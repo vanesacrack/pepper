@@ -1,9 +1,5 @@
 # pepper
 
-<p align="center"><a href="https://pepperchecker.000webhostapp.com/" target="_blank">
-    <img src="https://github.com/vanesacrack/pepper/blob/main/imagenes/logo.png">
-</a></p
-
 Pepper es un **CHECKER** diseñado para satisfacer la demanda
 de checkers de buena calidad y con un costo minimo a la hora
 de ser usados, la plataforma web que respalda el proyecto es
